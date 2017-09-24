@@ -3,10 +3,11 @@
 #include <SDL2/SDL.h>
 #include <time.h>
 
-/*
+/**
  * Based on the documentation described in:
  * http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
-*/
+ * // learn to format cunt
+ */
 
 #define SCALE 10
 #define ADDR(x)(x&0x0FFF)
